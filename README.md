@@ -5,6 +5,7 @@ Handles the minting of NFTs during Presales/Sales.
 ## VSCode
 
 ### Dependencies:
+When cloning the project it is enough just to hit "npm install", but I'm keeping the other commands if I ever need to start from scratch.
 ```shell
 npm install --save-dev hardhat
 npx hardhat
